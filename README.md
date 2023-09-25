@@ -1,1 +1,1 @@
-# MachinLearning-DeepLearning
+# Machine Learning in Bioinformatics
